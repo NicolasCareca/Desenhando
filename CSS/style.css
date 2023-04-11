@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*Header*/
+
+header {
+    max-width: 100%;
+    
+    background-color: #E9E9E9;
+   
+}
+
+
+
+
+
+
+
+
+
+
+/*primeira section*/
+
+.primeira {
+    width: 100%;
+    
+    background: linear-gradient(to bottom, #282828 0%, #444444 100%);
+   
+}
+
+.container_caixa {
+    
+  
+    font-weight: bold;
+}
+
+.container_titulo {
+    color: #FFA800;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.container_paragrafo_caixa {
+    color: #FFFFFF;
+    font-size: 15px;
+    word-spacing: 0.32vw;
+    line-height: 3vh;
+   
+}
+
+.vaca_comendo_pasto {
+   margin-left:5vw;
+    background-color: #D9D9D9;
+    width: 34.5vw;
+    height: 39vh;
+    border-radius: 50px;
+    border: 1px solid #FF0000;
+   
+}
+
+/*segunda section*/
+
+.segunda {
+    width: 100%;
+    background: linear-gradient(to bottom, #D9D9D9 0%, #E9E9E9 100%);
+
+}
+
+.quem{
+    width: 20vw;
+    height: 25vh;
+    background: linear-gradient(to bottom,#FFA800 0%, #FFD37D 100%);
+    border-radius: 50px;
+    
+}
+.quem h3{
+    font-weight: bold;
+    text-align: center;
+    font-size: 2rem;
+    padding: 1vw;
+   
+}
+.quem p{
+    font-size: 1rem;
+    padding: 1vw;
+    color: #FFFFFF;
+}
+
